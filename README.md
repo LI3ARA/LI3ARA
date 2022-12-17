@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lisara Gajaweera
+- 👀 I’m interested in learning/unlearning and creating from the things I learn
+- 🌱 I’m currently learning AI, Data Science, Maths, Statistics and Economics.
+- 📫 How to reach me - [send me an email](lisara.20211029@iit.ac.lk)
