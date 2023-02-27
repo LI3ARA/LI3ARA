@@ -19,7 +19,7 @@
 
  <summary><h3> GitHub Activity</h3></summary>
 <!-- most used languages -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=li3ara&show_icons=true&locale=en&layout=compact&theme=nord" alt="li3ara"/></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=li3ara&show_icons=true&locale=en&layout=compact&theme=nord" alt="li3ara"/></p>
 
 <!-- readme status -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=li3ara&show_icons=true&locale=en&theme=dracula" alt="li3ara" /></p>
