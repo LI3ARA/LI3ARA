@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lisara Gajaweera, a second year undergraduate student
 - 👀 I’m interested in learning/unlearning and creating from the things I learn
-- 🌱 I’m currently learning *AI, Data Science, Maths, Statistics and Economics*.
+- 🌱 I’m currently learning *AI, Data Science, Maths, Statistics *.
 - 📫 How to reach me - [send me an email](lisara.20211029@iit.ac.lk)
 
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
